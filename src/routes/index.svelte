@@ -4,8 +4,8 @@
 
   let posts = []
   let cards = [
-    {},
-    {}
+    { title: "Test", description: "Yeah i got nothing for you" },
+    { title: "Test2", description: "Testing description" }
   ]
 
   onMount(async () => {
